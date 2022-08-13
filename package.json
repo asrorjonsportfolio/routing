@@ -1,0 +1,29 @@
+{
+  "name": "routing",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "description": "router",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asrorjonsportfolio/routing.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "router"
+  ],
+  "author": "Asrorjon Mukhtorov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asrorjonsportfolio/routing/issues"
+  },
+  "homepage": "https://github.com/asrorjonsportfolio/routing#readme"
+}
